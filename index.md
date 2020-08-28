@@ -47,7 +47,7 @@ The following is the list of organisations who have generously provided us with 
 </tr>
 </table>
 
-Speaking at OWASP London Chapter Events
+Speaking at OWASP Dublin Chapter Events
 ---------------------------------------
 
 #### Call For Speakers
