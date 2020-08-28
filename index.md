@@ -15,7 +15,7 @@ postal-code:
 ---
 
 
-OWASP London
+OWASP Dublin
 -------------
 Welcome to the Dublin chapter homepage. The chapter board is <a href="mailto:denise.murtaghdunne@owasp.org">Denise Murtagh-Dunne</a>, <a href="mailto:Brendan.Gormley@owasp.org">Brendan Gormley</a> and <a>Emma Heffernan</a>. Follow chapter news on [Facebook](https://www.facebook.com/owaspireland) | [Twitter](https://twitter.com/owaspireland) | [Meetup.com](https://meetup.com/OWASP-Dublin)
 
