@@ -24,12 +24,8 @@ The following are the list of OWASP Corporate Members who have generously aligne
 
 <table cellpadding="15" cellspacing="0">
 <tr>
-name: Edgescan
-image: /assets/images/edgescan.png 
-url: https://www.edgescan.com
  
- 
-<a href="/"></a>
+<a href="https://www.edgescan.com/"></a>
  
 </td>
 </tr>
