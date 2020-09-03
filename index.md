@@ -1,6 +1,6 @@
 ---
 
-
+layout: col-sidebar
 title: OWASP Dublin
 tags: dublin
 level: 0
