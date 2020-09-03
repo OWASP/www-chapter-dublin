@@ -1,7 +1,7 @@
 
 ### Chapter Information
 
-### London Information
+### Dublin Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 * [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/Ireland-Chapter)
 * [Local Chapter Support](https://www.owasp.org/index.php/Local_Chapter_Supporter)
