@@ -4,10 +4,9 @@ layout: col-sidebar
 title: OWASP Dublin
 tags: example-tag
 level: 0
-
 region: Europe
 
-auto-migrated: 1
+
 meetup-group: OWASP-Dublin
 country: Ireland
 postal-code: 
