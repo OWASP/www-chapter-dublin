@@ -1,5 +1,5 @@
-<!--### Chapter Information
-* Chapter Region
+
+### Chapter Information
 
 ### Social Links
 * [Meetup](http://www.meetup.com/OWASP-Dublin)
