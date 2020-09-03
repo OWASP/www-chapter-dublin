@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Dublin
-tags: example-tag
+tags: dublin
 level: 0
 region: Europe
 
