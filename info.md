@@ -3,4 +3,5 @@
 
 ### Social Links
 * [Meetup](http://www.meetup.com/OWASP-Dublin)
-* [Social Link](#)-->
+* [Facebook](https://www.facebook.com/owaspireland) 
+* [Twitter](https://twitter.com/owaspireland)
