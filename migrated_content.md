@@ -1,5 +1,5 @@
 
-layout: col-sidebar
+layout: null
 title: OWASP Dublin
 tags: example-tag
 level: 0
