@@ -25,7 +25,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td> 
-<a href="https://www.edgescan.com/"></a> 
+<a href="https://www.edgescan.com/"><img src="assets/images/edgescan.png" alt="edgescan logo" width="150" target="_blank"></a> 
 </td>
 </tr>
 </table>
@@ -39,7 +39,7 @@ The following is the list of organisations who have generously provided us with 
 <table cellpadding="10" cellspacing="0" border="0">
 <tr>
 <td>
-<img src="assets/images/EYLogo.png" alt="EY"/>
+<a href="https://www.morganmckinley.com/ie"><img src="assets/images/Mmk.jpg" alt="Morgan McKinley logo" width="150" target="_blank"/></a>
 </td>
 </tr>
 </table>
