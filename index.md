@@ -57,8 +57,6 @@ Next Meeting/Event(s)
 ---------------------
 OWASP Dublin Chapter meetings are posted on our MeetUp Page:
 
-{% include chapter_events.html group=page.meetup-group %}
-
 Please visit <a href="http://www.meetup.com/OWASP-Dublin">http://www.meetup.com/OWASP-Dublin</a> for all chapter event information.
 
 Please follow OWASP Dublin Chapter on <a href="https://twitter.com/OWASPIreland">Twitter</a>/<a href="https://facebook.com/OWASPIreland">Facebook</a>/<a href="https://meetup.com/OWASP-Dublin">MeetUp</a>
