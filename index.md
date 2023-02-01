@@ -16,10 +16,7 @@ postal-code:
 
 OWASP Dublin
 -------------
-Welcome to the Dublin chapter homepage. The chapter board is <a href="mailto:denise.murtaghdunne@owasp.org">Denise Murtagh-Dunne</a>, <a href="mailto:Brendan.Gormley@owasp.org">Brendan Gormley</a>,<a href="mailto:Myles.cullen@owasp.org">Myles Cullen</a> and <a href="mailto:Emma.Heffernan@owasp.org">Emma Heffernan</a>. 
-
-<h4 id="owasp-Dublin-is-proudly-celebrating-owasps-20th-anniversary">OWASP Dublin is proudly celebrating OWASP’s 20th Anniversary!</h4>
-<p><a href="https://20thanniversary.owasp.org/"><img src="assets/images/OWASP%2020th%20Anniversary.jpeg" alt="OWASP 20th Anniversary Image" /></a></p>
+Welcome to the Dublin chapter homepage. The chapter board is <a href="mailto:denise.murtaghdunne@owasp.org">Denise Murtagh-Dunne</a>, <a href="mailto:Antonio.stano@owasp.org">Antonio Dtano</a>. 
 
 Follow chapter news on [Facebook](https://www.facebook.com/owaspireland) | [Twitter](https://twitter.com/owaspireland) | [Meetup.com](https://meetup.com/OWASP-Dublin)
 
@@ -64,6 +61,6 @@ OWASP Dublin Chapter meetings are posted on our MeetUp Page:
 
 Please visit <a href="http://www.meetup.com/OWASP-Dublin">http://www.meetup.com/OWASP-Dublin</a> for all chapter event information.
 
-Please follow OWASP Dublin Chapter on <a href="https://twitter.com/OWASPIreland">Twitter</a>/<a href="https://facebook.com/OWASPIreland">Facebook</a>/<a href="https://meetup.com/OWASP-Dublin">MeetUp</a>/<a href="https://owaspireland.eventbrite.com">EventBrite</a>
+Please follow OWASP Dublin Chapter on <a href="https://twitter.com/OWASPIreland">Twitter</a>/<a href="https://facebook.com/OWASPIreland">Facebook</a>/<a href="https://meetup.com/OWASP-Dublin">MeetUp</a>
 
 
