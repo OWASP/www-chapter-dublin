@@ -18,7 +18,14 @@ OWASP Dublin
 -------------
 Welcome to the Dublin chapter homepage. The chapter board is <a href="mailto:denise.murtaghdunne@owasp.org">Denise Murtagh-Dunne</a>, <a href="mailto:Antonio.stano@owasp.org">Antonio Stano</a>. 
 
-Follow chapter news on [Facebook](https://www.facebook.com/owaspireland) | [Twitter](https://twitter.com/owaspireland) | [Meetup.com](https://meetup.com/OWASP-Dublin)
+
+Next Meeting/Event(s)
+---------------------
+OWASP Dublin Chapter meetings are posted on our MeetUp Page:
+
+Please visit <a href="http://www.meetup.com/OWASP-Dublin">http://www.meetup.com/OWASP-Dublin</a> for all chapter event information.
+
+Please follow OWASP Dublin Chapter on <a href="https://twitter.com/OWASPIreland">Twitter</a>/<a href="https://facebook.com/OWASPIreland">Facebook</a>/<a href="https://meetup.com/OWASP-Dublin">MeetUp</a>
 
 
 Chapter Sponsors
@@ -85,12 +92,6 @@ Speaking at OWASP Dublin Chapter Events
 
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Dublin Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail or via [CFP Google Form](https://forms.gle/PCyXCEPLFhXJy8WV8)
 
-Next Meeting/Event(s)
----------------------
-OWASP Dublin Chapter meetings are posted on our MeetUp Page:
 
-Please visit <a href="http://www.meetup.com/OWASP-Dublin">http://www.meetup.com/OWASP-Dublin</a> for all chapter event information.
-
-Please follow OWASP Dublin Chapter on <a href="https://twitter.com/OWASPIreland">Twitter</a>/<a href="https://facebook.com/OWASPIreland">Facebook</a>/<a href="https://meetup.com/OWASP-Dublin">MeetUp</a>
 
 
