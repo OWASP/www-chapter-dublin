@@ -17,7 +17,7 @@ postal-code:
 OWASP Dublin
 -------------
 Welcome to the Dublin chapter homepage. The chapter board is <a href="mailto:denise.murtaghdunne@owasp.org">Denise Murtagh-Dunne</a>, <a href="mailto:Antonio.stano@owasp.org">Antonio Stano</a>. 
-
+<br><br>
 
 Next Meeting/Event(s)
 ---------------------
@@ -26,7 +26,7 @@ OWASP Dublin Chapter meetings are posted on our MeetUp Page:
 Please visit <a href="http://www.meetup.com/OWASP-Dublin">http://www.meetup.com/OWASP-Dublin</a> for all chapter event information.
 
 Please follow OWASP Dublin Chapter on <a href="https://twitter.com/OWASPIreland">Twitter</a>/<a href="https://facebook.com/OWASPIreland">Facebook</a>/<a href="https://meetup.com/OWASP-Dublin">MeetUp</a>
-
+<br><br>
 
 Chapter Sponsors
 ----------------
@@ -40,7 +40,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
     </td>
 </tr>
 </table>
-
+<br><br>
 
 Meeting Sponsors
 ----------------
