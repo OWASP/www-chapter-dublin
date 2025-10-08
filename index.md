@@ -16,7 +16,7 @@ postal-code:
 
 OWASP Dublin
 -------------
-Welcome to the Dublin chapter homepage. The chapter board is <a href="mailto:denise.murtaghdunne@owasp.org">Denise Murtagh-Dunne</a>, <a href="mailto:Antonio.stano@owasp.org">Antonio Stano</a>. 
+Welcome to the Dublin chapter homepage. The chapter board is <a href="mailto:Antonio.stano@owasp.org">Antonio Stano</a> and <a href="mailto:vaibhav.gupta@owasp.org">Vaibhav Gupta</a>.
 <br><br>
 
 Next Meeting/Event(s)
@@ -94,6 +94,9 @@ Speaking at OWASP Dublin Chapter Events
 
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Dublin Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail or via [CFP Google Form](https://forms.gle/PCyXCEPLFhXJy8WV8)
 
-
-
+Organisation Team
+---------------------------------------
+<a href="mailto:Antonio.stano@owasp.org">Antonio Stano</a> <br>
+<a href="mailto:vaibhav.gupta@owasp.org">Vaibhav Gupta</a> <br>
+<a href="mailto:denise.murtaghdunne@owasp.org">Denise Murtagh-Dunne</a> <br>
 
