@@ -1,0 +1,29 @@
+community:
+  - name: chapter-dublin
+    platform: slack
+    url: https://owasp.slack.com/archives/C07SNL5C5
+    description: OWASP Dublin chapter official channel. Introduce yourself, ask questions, and seek knowledge
+leaders:
+  - name: Denise Murtagh-Dunne
+    email: denise.murtaghdunne@owasp.org
+    github: Denisemurt
+  - name: Antonio Stano
+    email: Antonio.Stano@owasp.org
+location:
+  country: Ireland
+  country_code: IE
+  region: Leinster
+  city: Dublin
+  latitude: 53.3493795
+  longitude: -6.2605593
+meetup_group: OWASP-Dublin
+name: OWASP Dublin
+repositories:
+  - name: www-chapter-dublin
+    url: https://github.com/OWASP/www-chapter-dublin
+    description: OWASP Foundation Web Repository
+tags:
+  - dublin
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-dublin
